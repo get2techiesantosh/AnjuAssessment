@@ -1,0 +1,79 @@
+﻿<html>
+<head>
+    <style>
+        .button {
+            border-radius: 2px;
+            background-color: orange;
+            border: none;
+            color: black;
+            text-align: center;
+            font-size: 28px;
+            padding: 5px;
+            width: 200px;
+            transition: all 0.5s;
+            cursor: pointer;
+            margin: 5px;
+            left:120px;
+        }
+
+            .button span {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                transition: 0.5s;
+            }
+
+                .button span:after {
+                    content: '\00bb';
+                    position: absolute;
+                    opacity: 0;
+                    top: 0;
+                    right: -20px;
+                    transition: 0.5s;
+                }
+
+            .button:hover span {
+                padding-right: 25px;
+            }
+
+                .button:hover span:after {
+                    opacity: 1;
+                    right: 0;
+                }
+
+        .container {
+            height: 200px;
+            position: relative;
+            border: none;
+        }
+
+        .center {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <br />
+    <div class="container">
+        <div class="center">
+            <button class="button" type="button" id="name" onclick="javascript: callBackEndMethod($('#name').text());"><span>Click Me! </span></button>
+        </div>
+        
+    </div>
+    
+    <br />
+    <script type="text/javascript">function callBackEndMethod(data) {
+            try {
+                invokeBackendAction(data);
+            }
+            catch (err) {
+            }
+        }</script>
+</body>
+</html>

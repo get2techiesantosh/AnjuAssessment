@@ -1,0 +1,14 @@
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.csprojAssemblyReference.cache
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.AssemblyInfoInputs.cache
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.AssemblyInfo.cs
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.csproj.CoreCompileInputs.cache
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\bin\Debug\netstandard2.0\AnjuAssessmentApp.deps.json
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\bin\Debug\netstandard2.0\AnjuAssessmentApp.dll
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\bin\Debug\netstandard2.0\ref\AnjuAssessmentApp.dll
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\bin\Debug\netstandard2.0\AnjuAssessmentApp.pdb
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.dll
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\ref\AnjuAssessmentApp.dll
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp\obj\Debug\netstandard2.0\AnjuAssessmentApp.pdb

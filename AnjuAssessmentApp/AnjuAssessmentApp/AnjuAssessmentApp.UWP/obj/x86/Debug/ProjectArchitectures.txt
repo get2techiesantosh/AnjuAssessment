@@ -1,0 +1,1 @@
+C:\Santosh\Personal\Interview\Assessments Projects\Mobile Apps\AnjuAssessmentApp\AnjuAssessmentApp\AnjuAssessmentApp.UWP\AnjuAssessmentApp.UWP.csproj;x86

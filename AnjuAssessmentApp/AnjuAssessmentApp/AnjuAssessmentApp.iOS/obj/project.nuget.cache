@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bepoONYkUWH8JhJGxReBHarUfmsgvCgFw7107yJgWcGmJVooJujCVkIdOj2/+rBoT7sVhAeMcAT1MKmA3c4uSg==",
+  "success": true,
+  "projectFilePath": "C:\\Santosh\\Personal\\Interview\\Assessments\\MobileApps\\AnjuAssessmentApp\\AnjuAssessmentApp\\AnjuAssessmentApp.iOS\\AnjuAssessmentApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh singh\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
